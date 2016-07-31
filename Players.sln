@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Players", "Players\Players.csproj", "{E88F74DB-530A-4B6E-A244-1AB76E1C616E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88F74DB-530A-4B6E-A244-1AB76E1C616E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88F74DB-530A-4B6E-A244-1AB76E1C616E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88F74DB-530A-4B6E-A244-1AB76E1C616E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88F74DB-530A-4B6E-A244-1AB76E1C616E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
